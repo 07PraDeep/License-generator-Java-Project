@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=EnterpriseEdition
+comment1.params=productName\ productNumber\ pricePerUser
+comment1.target=EnterpriseEdition(java.lang.String,\ float,\ float)
+comment10.params=clientCompanyName\ numberOfUser\ licenseActivationDate\ licenseExpireDate\ activationKey
+comment10.target=void\ licenseIssue(java.lang.String,\ float,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment11.params=
+comment11.target=void\ terminateLicense()
+comment12.params=
+comment12.target=void\ productDetails()
+comment2.params=
+comment2.target=java.lang.String\ getClientCompanyName()
+comment3.params=
+comment3.target=java.lang.String\ getLicenseActivationDate()
+comment4.params=
+comment4.target=java.lang.String\ getLicenseExpireDate()
+comment5.params=
+comment5.target=float\ getPricePerUser()
+comment6.params=
+comment6.target=float\ getNumberOfUser()
+comment7.params=
+comment7.target=boolean\ getIsActivated()
+comment8.params=
+comment8.target=boolean\ getIsExpired()
+comment9.params=pricePerUser
+comment9.target=void\ setPricePerUser(float)
+numComments=13

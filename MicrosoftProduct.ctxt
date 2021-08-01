@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MicrosoftProduct
+comment0.text=\r\n\ Class\ MicrosoftProduct.\r\n\r\n\ @author\ (Pradip\ Dhital)\r\n\ @version\ (1.0)\r\n
+comment1.params=productNumber\ productName
+comment1.target=MicrosoftProduct(float,\ java.lang.String)
+comment10.params=
+comment10.target=void\ productDetails()
+comment2.params=
+comment2.target=float\ getProductNumber()
+comment3.params=
+comment3.target=java.lang.String\ getProductName()
+comment4.params=
+comment4.target=java.lang.String\ getActivationKey()
+comment5.params=activationKey
+comment5.target=void\ setActivationKey(java.lang.String)
+comment6.params=
+comment6.target=float\ getprice()
+comment7.params=price
+comment7.target=void\ setprice(float)
+comment8.params=productNumber
+comment8.target=void\ setProductNumber(java.lang.Float)
+comment9.params=productName
+comment9.target=void\ setProductName(java.lang.String)
+numComments=11
